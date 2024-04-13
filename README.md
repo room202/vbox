@@ -15,25 +15,25 @@ https://www.virtualbox.org/
 
 ダウンロードしたファイルを実行
 
-「Next」をクリック  
+`Next`をクリック  
 ![](images/003.png)
 
-「Next」をクリック  
+`Next`をクリック  
 ![](images/004.png)
 
-「Yes」をクリック  
+`Yes`をクリック  
 ![](images/005.png)
 
-「Yes」をクリック  
+`Yes`をクリック  
 ![](images/006.png)
 
-「Install」をクリック  
+`Install`をクリック  
 ![](images/007.png)
 
 インストールが始まるので少し待つ  
 ![](images/008.png)
 
-「Finish」をクリック  
+`Finish`をクリック  
 ![](images/009.png)
 
 Virtual Boxが起動すればインストール完了
