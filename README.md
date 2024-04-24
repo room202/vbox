@@ -2,10 +2,13 @@
 
 ## 事前準備
 
-下記サイトから`Visual C++ 再頒布可能パッケージ`をインストール
+下記サイトから`Visual C++ 再頒布可能パッケージ`をダウンロードしてインストールする
 
 https://learn.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
+![](images/011.png)
+
+![](images/012.png)
 
 
 ## インストールの手順
