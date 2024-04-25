@@ -52,5 +52,7 @@ https://www.virtualbox.org/
 `Finish`をクリック  
 ![](images/009.png)
 
-Virtual Boxが起動すればインストール完了
+Virtual Boxが起動すればインストール完了  
+一度Windowsを再起動
 ![](images/010.png)
+
