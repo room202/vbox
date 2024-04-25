@@ -1,6 +1,6 @@
 # Virtual Box
 
-## 事前準備
+## 事前準備その１
 
 下記サイトから`Visual C++ 再頒布可能パッケージ`をダウンロードしてインストールする
 
@@ -10,6 +10,11 @@ https://learn.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist?view=ms
 
 ![](images/012.png)
 
+## 事前準備その２
+
+下記サイトから`Windowsの機能の有効化`を実施する
+
+https://github.com/room202/docker/?tab=readme-ov-file#%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99
 
 ## インストールの手順
 
